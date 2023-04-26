@@ -14,9 +14,9 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: make setup
+      run: make setup
+    - name: make reset
       run: make reset
-    - name: make test
-      run: make test
     - name: make setup
       run: make setup
     - name: make reset
