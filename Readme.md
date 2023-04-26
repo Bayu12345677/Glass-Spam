@@ -35,6 +35,7 @@ cd Glass-Spam
 make setup
 make run
 ```
+</details>
 
 - List otp
 > - sms<br>
