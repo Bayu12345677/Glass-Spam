@@ -10,3 +10,5 @@ run:
 	screen ./main.out
 reset:
 	rm main.out
+test:
+	@true
