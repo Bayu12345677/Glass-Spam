@@ -7,7 +7,7 @@ setup:
 	pip install rich-cli
 	gcc main.c -o main.out
 run:
-	screen ./main.out
+	./main.out
 reset:
 	rm main.out
 test:
